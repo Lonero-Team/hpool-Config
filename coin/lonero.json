@@ -1,0 +1,6 @@
+{
+    "name": "Lonero",
+    "symbol": "LNR",
+    "site": "http://lonero.org",    
+    "algorithm": "cryptonight"
+}
