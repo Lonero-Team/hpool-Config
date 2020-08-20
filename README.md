@@ -1,2 +1,2 @@
 # hpool-Config
-Config file for node-hpool-serve
+Config file for [node-hpool-server](https://github.com/bonesoul/node-hpool-server)
